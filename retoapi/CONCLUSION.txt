@@ -1,7 +1,0 @@
-Conclusion del ejerccio 2 
-
-En este ejercicio se ha utilizado herramienta (IDE Intellij) y componentes de instalacion (Java, Maven) los cuales a permitido implementar la solucion 
-al crud de consultas (Post, Put, Get) por cada ejercicio realizado con Karate con resultados exitosos.
-
-Tener en cuenta la complejidad de Karate, Maven y sus adecuadas librerias y plugin que no esten deprecadas a ayudado la ejecucion de cada metodo
-con exito.
